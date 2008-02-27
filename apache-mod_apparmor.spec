@@ -5,7 +5,7 @@
 %define develname %mklibname apparmor -d
 
 Summary:	Fine-grained AppArmor confinement for apache
-Name:		apparmor-mod_apparmor
+Name:		apache-mod_apparmor
 Version:	2.1.2
 Release:	%mkrel 1.%{rev}.1
 License:	LGPL
