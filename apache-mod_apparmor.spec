@@ -15,7 +15,7 @@ Source0:	apache2-mod_apparmor-%{version}-%{rev}.tar.gz
 Source1:        B15_mod_apparmor.conf
 BuildRequires:  apache-devel
 BuildRequires:  libapparmor-devel
-BuildRoot:	%{_tmppath}/%{name}-%{version}-root
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 AppArmor is a security framework that proactively protects the operating system
