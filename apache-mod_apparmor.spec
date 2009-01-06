@@ -7,7 +7,7 @@
 Summary:	Fine-grained AppArmor confinement for apache
 Name:		apache-mod_apparmor
 Version:	2.3
-Release:	%mkrel 1.%{rev}.1
+Release:	%mkrel 1.%{rev}.2
 License:	LGPL
 Group:		System/Servers
 URL:		http://forge.novell.com/modules/xfmod/project/?apparmor
